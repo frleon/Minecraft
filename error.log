@@ -1,0 +1,9 @@
+System.IO.InvalidDataException: The magic number in GZip header is not correct. Make sure you are passing in a GZip stream.
+   at NBTedit.NBTView.Load(String filename)
+   at NBTedit.MainForm.Open(Object sender, EventArgs e)
+System.IO.InvalidDataException: The magic number in GZip header is not correct. Make sure you are passing in a GZip stream.
+   at NBTedit.NBTView.Load(String filename)
+   at NBTedit.MainForm.Open(Object sender, EventArgs e)
+System.IO.InvalidDataException: The magic number in GZip header is not correct. Make sure you are passing in a GZip stream.
+   at NBTedit.NBTView.Load(String filename)
+   at NBTedit.MainForm.Open(Object sender, EventArgs e)
